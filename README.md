@@ -52,8 +52,8 @@ netflix-pyspark-project/
 ## 🙌 Credits
 
 - Dataset: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) *(sampled)*
-- Built with 💻 by [Your Name]
-
+- Built with 💻 by Sonam M ([@streamingwithsonam](https://github.com/streamingwithsonam))
+  
 ## 📌 Note
 
 This project was done as a PySpark mini-project for learning and portfolio building. Ideal for beginners looking to practice Spark and data exploration.
